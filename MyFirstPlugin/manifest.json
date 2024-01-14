@@ -1,0 +1,9 @@
+{
+    "name": "ScannerScrap",
+    "version_number": "0.0.1",
+    "website_url": "https://github.com/Impdevil/Digithulhu-Scanner",
+    "description": "Adding a Scanner object to the game",
+    "dependencies": [
+        "Evaisa-LethalLib-0.13.0"
+    ]
+}
